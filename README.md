@@ -10,6 +10,6 @@ This is a TODO app.
 
 -> Option to mark as done.
 
--> To delete a complted task.
+-> To delete a completed task.
 
 
